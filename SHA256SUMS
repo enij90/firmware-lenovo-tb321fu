@@ -1,4 +1,6 @@
 e68eaaa7978fe5b1f240fe0b3e7d43faccc2d25538b8eeff53c121fef71ae915  usr/lib/firmware/aw882xx_acf.bin
+f21ac0d23d53ea5e7557df1c106e406286b605f8b522ba9ca1887cd374b3f999  usr/lib/firmware/haptic_click.bin
+64e86edba26029de2954e6ea23315b44ad6d5f53c1782be7eeef5d58f97d6ff1  usr/lib/firmware/haptic_ram.bin
 b8e7f499d29ed22c0b0d6bc57d9c260feab1ead37c43bc63a3deff9b5a302322  usr/lib/firmware/qcom/sm8650/Lenovo-Y700-TB321FU-tplg.bin
 7810cf92a5476599bf7431fe96390226bb2fbebd268fcfe5d9000beea762a5ea  usr/lib/firmware/qcom/sm8650/lenovo/tb321fu/adsp.b00
 01b8884715362d3074fc2b345ed82ba6f69b7a4e7a41226ef736f9e443a310b7  usr/lib/firmware/qcom/sm8650/lenovo/tb321fu/adsp.b01

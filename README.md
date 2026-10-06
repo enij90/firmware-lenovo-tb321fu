@@ -21,6 +21,7 @@ They are kept here, separate from the OS sources, the same way postmarketOS ship
 | `usr/lib/firmware/qcom/sm8650/lenovo/tb321fu/aw882xx_acf.bin`, `usr/lib/firmware/aw882xx_acf.bin` | Awinic AW882xx speaker amplifier configuration |
 | `usr/lib/firmware/qcom/sm8650/Lenovo-Y700-TB321FU-tplg.bin` | AudioReach topology |
 | `usr/lib/firmware/updates/ath12k/WCN7850/hw2.0/{amss,board-2}.bin` | Wi-Fi (WCN7850) firmware and board data for this tablet |
+| `usr/lib/firmware/haptic_ram.bin`, `usr/lib/firmware/haptic_click.bin` | Awinic AW86937 vibration motor waveforms (from GUF296's tb321fu-haptics-debs) |
 
 `SHA256SUMS` lists every file.
 
