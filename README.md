@@ -22,11 +22,13 @@ They are kept here, separate from the OS sources, the same way postmarketOS ship
 | `usr/lib/firmware/qcom/sm8650/Lenovo-Y700-TB321FU-tplg.bin` | AudioReach topology |
 | `usr/lib/firmware/updates/ath12k/WCN7850/hw2.0/{amss,board-2}.bin` | Wi-Fi (WCN7850) firmware and board data for this tablet |
 | `usr/lib/firmware/haptic_ram.bin`, `usr/lib/firmware/haptic_click.bin` | Awinic AW86937 vibration motor waveforms (from GUF296's tb321fu-haptics-debs) |
+| `usr/share/qcom/sm8650/Lenovo/tb321fu/` | Sensor core (SSC) configuration served to the ADSP by hexagonrpcd: vendor sensor JSON configs, `sns_reg.conf`, `socinfo` (from GUF296's tb321fu-sensor-debs). No calibration: each tablet's factory calibration is read from its own `persist` partition |
 
 `SHA256SUMS` lists every file.
 
-No per-device data is included. The speaker calibration (`aw_cali.bin`) is unique to each
-tablet and stays on its own `persist` partition.
+No per-device data is included. The speaker calibration (`aw_cali.bin`) and the sensor
+registry with the factory calibrations are unique to each tablet and stay on its own
+`persist` partition.
 
 ## Origin
 
