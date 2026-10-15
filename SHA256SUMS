@@ -98,6 +98,9 @@ cbb12bbdc05c5fe5f2bcbea134fb92fbfd9f2fe67f92dea58c31b8730c48fe2b  usr/lib/firmwa
 8166b1fde9725547bd07eba4add22f442dc938f17274fbf358dbdcfc88ec5f31  usr/lib/firmware/qcom/sm8650/lenovo/tb321fu/vpu33_p4.mbn
 8bc1952148d73c98dd620921e435668ec205b2548f1edfb86f8b8452b0807007  usr/lib/firmware/updates/ath12k/WCN7850/hw2.0/amss.bin
 c896bc7782e252aa915849d5c9c47d109ecfe9f0fc5650fe771f7ba8f8eb77fb  usr/lib/firmware/updates/ath12k/WCN7850/hw2.0/board-2.bin
+b4e7f61e7dd090e56811860a7781ff3b0ce8e87cc0480feaab34bf4f614308c5  usr/lib/firmware/updates/qca/hmtbtfw20.tlv
+513bef77998f239be1ec5e853f1a85f96f52b6d024073685f929a37011e55d4b  usr/lib/firmware/updates/qca/hmtnv20_Kirby_prc.bin
+528927549e154f50e90c3986d0bf24d404d204ac0e701d3d2a4449a66a5915b1  usr/lib/firmware/updates/qca/hmtnv20_Kirby_row.bin
 e5d3fbfea9af89a6d3960e455ca1d94e2c513900a19ef8562b790ae4b4cd6789  usr/share/qcom/sm8650/Lenovo/tb321fu/sensors/config/json.lst
 a8486377eb0b14e99d540c5ab987fd6da5367c77d1557f603065e56daa3c3f18  usr/share/qcom/sm8650/Lenovo/tb321fu/sensors/config/lahai_aw963xx_0.json
 a8871bb89c9cb60bcb516bc5ec35b36f150a7871e9a6688e1d5f2e45439188c4  usr/share/qcom/sm8650/Lenovo/tb321fu/sensors/config/lahai_aw963xx_0_sar_register_kirby.json

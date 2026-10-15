@@ -21,6 +21,7 @@ They are kept here, separate from the OS sources, the same way postmarketOS ship
 | `usr/lib/firmware/qcom/sm8650/lenovo/tb321fu/aw882xx_acf.bin`, `usr/lib/firmware/aw882xx_acf.bin` | Awinic AW882xx speaker amplifier configuration |
 | `usr/lib/firmware/qcom/sm8650/Lenovo-Y700-TB321FU-tplg.bin` | AudioReach topology (stock, recompiled: the DisplayPort subgraph moved from 0x4012, the speaker container, to 0x4014) |
 | `usr/lib/firmware/updates/ath12k/WCN7850/hw2.0/{amss,board-2}.bin` | Wi-Fi (WCN7850) firmware and board data for this tablet |
+| `usr/lib/firmware/updates/qca/hmtbtfw20.tlv`, `hmtnv20_Kirby_{row,prc}.bin` | Bluetooth (WCN7850) patch BTFW 2.0.1-00355 and the board NVM (RF configuration, rest of world and China), from the tablet Android `bluetooth` partition. Without the NVM the controller runs on the generic one and connections fail |
 | `usr/lib/firmware/haptic_ram.bin`, `usr/lib/firmware/haptic_click.bin` | Awinic AW86937 vibration motor waveforms (from GUF296's tb321fu-haptics-debs) |
 | `usr/share/qcom/sm8650/Lenovo/tb321fu/` | Sensor core (SSC) configuration served to the ADSP by hexagonrpcd: vendor sensor JSON configs, `sns_reg.conf`, `socinfo` (from GUF296's tb321fu-sensor-debs). No calibration: each tablet's factory calibration is read from its own `persist` partition |
 
