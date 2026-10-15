@@ -18,6 +18,7 @@ They are kept here, separate from the OS sources, the same way postmarketOS ship
 | `usr/lib/firmware/qcom/sm8650/lenovo/tb321fu/gen70900_zap.mbn` | Adreno 750 zap shader (device-signed) |
 | `usr/lib/firmware/qcom/sm8650/lenovo/tb321fu/vpu33_p4.mbn` | Video decoder (iris), device-signed |
 | `usr/lib/firmware/qcom/sm8650/lenovo/tb321fu/novatek_ts_boe_fw.bin` | Touch controller firmware, BOE panel |
+| `usr/lib/firmware/qcom/sm8650/lenovo/tb321fu/novatek_ts_csot_fw.bin` | Touch controller firmware, CSOT panel (from GUF296's y700-device-debs) |
 | `usr/lib/firmware/qcom/sm8650/lenovo/tb321fu/aw882xx_acf.bin`, `usr/lib/firmware/aw882xx_acf.bin` | Awinic AW882xx speaker amplifier configuration |
 | `usr/lib/firmware/qcom/sm8650/Lenovo-Y700-TB321FU-tplg.bin` | AudioReach topology (stock, recompiled: the DisplayPort subgraph moved from 0x4012, the speaker container, to 0x4014) |
 | `usr/lib/firmware/updates/ath12k/WCN7850/hw2.0/{amss,board-2}.bin` | Wi-Fi (WCN7850) firmware and board data for this tablet |

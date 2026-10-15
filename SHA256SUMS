@@ -95,6 +95,7 @@ e27de3a89ed982c6122de06e1eec003bd44ccc7c8ae4385c18cd3c14da6edceb  usr/lib/firmwa
 f42b89db8c17a99043e7c36d536cbb0c5ea6f05ae5ab7fe98f781b4a6b92e70a  usr/lib/firmware/qcom/sm8650/lenovo/tb321fu/ipa_fws.b04
 cbb12bbdc05c5fe5f2bcbea134fb92fbfd9f2fe67f92dea58c31b8730c48fe2b  usr/lib/firmware/qcom/sm8650/lenovo/tb321fu/ipa_fws.mdt
 9397719683cf6acd6cf4c16888f516ed0209e3d6866baeff9e3151deb9caa61d  usr/lib/firmware/qcom/sm8650/lenovo/tb321fu/novatek_ts_boe_fw.bin
+25618d5c50935b0b76bb13337628511cee795a8ca24c3c836684975f29fb7ae7  usr/lib/firmware/qcom/sm8650/lenovo/tb321fu/novatek_ts_csot_fw.bin
 8166b1fde9725547bd07eba4add22f442dc938f17274fbf358dbdcfc88ec5f31  usr/lib/firmware/qcom/sm8650/lenovo/tb321fu/vpu33_p4.mbn
 8bc1952148d73c98dd620921e435668ec205b2548f1edfb86f8b8452b0807007  usr/lib/firmware/updates/ath12k/WCN7850/hw2.0/amss.bin
 c896bc7782e252aa915849d5c9c47d109ecfe9f0fc5650fe771f7ba8f8eb77fb  usr/lib/firmware/updates/ath12k/WCN7850/hw2.0/board-2.bin
